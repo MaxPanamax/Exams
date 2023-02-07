@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConsoleApp41\bin\Debug\ConsoleApp41.exe.config
+C:\Users\User\source\repos\ConsoleApp41\bin\Debug\ConsoleApp41.exe
+C:\Users\User\source\repos\ConsoleApp41\bin\Debug\ConsoleApp41.pdb
+C:\Users\User\source\repos\ConsoleApp41\obj\Debug\Ponomarenko_Exam_Dictionary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp41\obj\Debug\Ponomarenko_Exam_Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ConsoleApp41\obj\Debug\Ponomarenko_Exam_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp41\obj\Debug\ConsoleApp41.exe
+C:\Users\User\source\repos\ConsoleApp41\obj\Debug\ConsoleApp41.pdb
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\bin\Debug\ConsoleApp41.exe.config
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\bin\Debug\ConsoleApp41.exe
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\bin\Debug\ConsoleApp41.pdb
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\obj\Debug\Ponomarenko_Exam_Dictionary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\obj\Debug\Ponomarenko_Exam_Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\obj\Debug\Ponomarenko_Exam_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\obj\Debug\ConsoleApp41.exe
+C:\Users\User\Desktop\домашняя работа\Пономаренко экзамен Словарь\obj\Debug\ConsoleApp41.pdb

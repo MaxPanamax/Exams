@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\bin\Debug\Пономаренко Экзамен Викторина.exe.config
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\bin\Debug\Пономаренко Экзамен Викторина.exe
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\bin\Debug\Пономаренко Экзамен Викторина.pdb
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\obj\Debug\Ponomarenko_Exam_Quiz.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\obj\Debug\Ponomarenko_Exam_Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\obj\Debug\Ponomarenko_Exam_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\obj\Debug\Пономаренко Экзамен Викторина.exe
+C:\Users\User\source\repos\Пономаренко Экзамен Викторина\obj\Debug\Пономаренко Экзамен Викторина.pdb
